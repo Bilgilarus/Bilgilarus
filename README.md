@@ -8,4 +8,4 @@
 Bilgilarus/Bilgilarus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<a href="https://bilgilarus.com/sinifin-enleri-lise-komik/" rel="dofollow">Sınıfın Enleri Lise Komik</a>
+<a href="https://bilgilarus.com/sinifin-enleri-lise-komik/">Sınıfın Enleri Lise Komik</a>
